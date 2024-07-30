@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Usercentrics",
-            url: "https://github.com/RedTecLab/usercentric_iOS/Usercentrics-2.15.4.xcframework.zip",
+            url: "https://github.com/RedTecLab/usercentric_iOS/blob/main/Usercentrics-2.15.4.xcframework.zip",
             checksum: "99a788ac05cd4464ef49518da0f89fb5a21466c0139393aaa522ba2bd21d2d6c"
         ),
     ]
